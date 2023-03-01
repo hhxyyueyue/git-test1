@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("Hello World!!!");
         System.out.println("Hello World123123!!!");
         System.out.println("master test");
+        System.out.println("hox-fix test");
+        System.out.println("push test");
     }
 }
